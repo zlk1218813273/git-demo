@@ -1,1 +1,2 @@
-hello my first git demo
+hello my first git deme master
+hello my first git deme 
